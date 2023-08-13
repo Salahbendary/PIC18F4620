@@ -1,0 +1,22 @@
+## Example 1: Calculation Program
+
+**Description:** This program takes two integers from the user, calculates the result using a given equation, and prints the result.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int num1, num2, result;
+    
+    // Input
+    printf("Enter two integers: ");
+    scanf("%d %d", &num1, &num2);
+    
+    // Calculation
+    result = ((num1 + num2) * 3) - 10;
+    
+    // Output
+    printf("Result: %d\n", result);
+    
+    return 0;
+}
