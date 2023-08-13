@@ -21,7 +21,7 @@ Discover the heart of this repository – the Microcontroller Abstraction Layer 
 ## [Electronic Control Unit (ECU) Layer](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer)
 
 
-- **💡 [LED]:** Light Emitting Diode(https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED)
+- **💡 [LED](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED):** Light Emitting Diode
 - **🖥️ LCD:** Liquid Crystal Display
 - **🔲 KEYPAD:** Keypad
 - **⚙️ DC MOTOR:** Direct Current Motor
