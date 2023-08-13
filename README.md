@@ -12,7 +12,7 @@ Discover the heart of this repository – the Microcontroller Abstraction Layer 
 - **⏰ TIMER:** Manage time-sensitive tasks.
 - **🔌 SPI:** Communicate seamlessly with peripheral devices.
 - **📡 USART:** Establish reliable synchronous/asynchronous communication.
-- **🔳 GPIO:** Take full control of input/output pins.
+- **🔳 [GPIO](https://github.com/Salahbendary/PIC18F4620/tree/main/MCAL_Layer/GPIO):** Take full control of input/output pins.
 - **📈 CCP:** Execute capture, comparison, and PWM operations smoothly.
 - **🔗 I2C:** Communicate efficiently using the I2C protocol.
 - **💾 EEPROM:** Read and write operations for non-volatile data storage.
@@ -22,14 +22,14 @@ Discover the heart of this repository – the Microcontroller Abstraction Layer 
 
 
 - **💡 [LED](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED):** Light Emitting Diode
-- **🖥️ LCD:** Liquid Crystal Display
-- **🔲 KEYPAD:** Keypad
-- **⚙️ DC MOTOR:** Direct Current Motor
-- **🔘 BUTTON:** Button
-- **7️⃣-SEGMENT:** 7-Segment Display
-- **🖋️ CHR_LCD (Character LCD):** Character LCD (Liquid Crystal Display)
-- **📏 ULTRASONIC:** Ultrasonic Sensor
-- **🔌 RELAY:** Relay
+- **🖥️ [LCD](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Chr_LCD):** Liquid Crystal Display
+- **🔲 [KEYPAD](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Keypad):** Keypad
+- **⚙️ [DC MOTOR](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/DC_Motor):** Direct Current Motor
+- **🔘 [BUTTON](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/PUSH_BUTTON):** Button
+- **7️⃣-[SEGMENT](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/7_Segment):** 7-Segment Display
+- **🖋️ [CHR_LCD (Character LCD)](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED):** Character LCD (Liquid Crystal Display)
+- **📏 [ULTRASONIC](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/):** Ultrasonic Sensor
+- **🔌 [RELAY](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Relay):** Relay
 
 
 ## Application Layer
