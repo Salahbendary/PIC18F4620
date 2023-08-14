@@ -3,34 +3,33 @@
 
 Welcome to the PIC18F4620 Microcontroller Repository! 🚀 This repository is your one-stop resource for mastering the PIC18F4620 microcontroller. It features a comprehensive implementation of drivers for each internal peripheral within the Microcontroller Abstraction Layer (MCAL). Not only that, but it also includes engaging practice exercises and exciting projects designed exclusively for this microcontroller.
 
-## Microcontroller Abstraction Layer (MCAL)
+## [Microcontroller Abstraction Layer (MCAL)](https://github.com/Salahbendary/PIC18F4620/tree/main/MCAL_Layer)
 
-Discover the heart of this repository – the Microcontroller Abstraction Layer (MCAL) drivers. These powerful tools empower you to harness the potential of key internal peripherals:
+Discover the heart of this repository – the Microcontroller Abstraction Layer (MCAL) drivers.
 
 - **🌐 LINTERRUPT:** Handle external and internal interrupts.
 - **⚡ ADC:** Convert analog signals to digital with precision.
 - **⏰ TIMER:** Manage time-sensitive tasks.
 - **🔌 SPI:** Communicate seamlessly with peripheral devices.
 - **📡 USART:** Establish reliable synchronous/asynchronous communication.
-- **🔳 GPIO:** Take full control of input/output pins.
+- **🔳 [GPIO](https://github.com/Salahbendary/PIC18F4620/tree/main/MCAL_Layer/GPIO):** Take full control of input/output pins.
 - **📈 CCP:** Execute capture, comparison, and PWM operations smoothly.
 - **🔗 I2C:** Communicate efficiently using the I2C protocol.
 - **💾 EEPROM:** Read and write operations for non-volatile data storage.
 - **🧩 Compiler Headers:** Standardized macros, types, and libraries.
 
-## Electronic Control Unit (ECU) Layer
+## [Electronic Control Unit (ECU) Layer](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer)
 
-Unleash the power of the Electronic Control Unit (ECU) layer, orchestrating hardware components to bring your projects to life:
 
-- **💡 LED:** Light Emitting Diode
-- **🖥️ LCD:** Liquid Crystal Display
-- **🔲 KEYPAD:** Keypad
-- **⚙️ DC MOTOR:** Direct Current Motor
-- **🔘 BUTTON:** Button
-- **7️⃣-SEGMENT:** 7-Segment Display
-- **🖋️ CHR_LCD (Character LCD):** Character LCD (Liquid Crystal Display)
-- **📏 ULTRASONIC:** Ultrasonic Sensor
-- **🔌 RELAY:** Relay
+- **💡 [LED](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED):** Light Emitting Diode
+- **🖥️ [LCD](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Chr_LCD):** Liquid Crystal Display
+- **🔲 [KEYPAD](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Keypad):** Keypad
+- **⚙️ [DC MOTOR](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/DC_Motor):** Direct Current Motor
+- **🔘 [BUTTON](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/PUSH_BUTTON):** Button
+- **7️⃣-[SEGMENT](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/7_Segment):** 7-Segment Display
+- **🖋️ [CHR_LCD (Character LCD)](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED):** Character LCD (Liquid Crystal Display)
+- **📏 [ULTRASONIC](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/):** Ultrasonic Sensor
+- **🔌 [RELAY](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Relay):** Relay
 
 
 ## Application Layer
