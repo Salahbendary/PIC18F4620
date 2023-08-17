@@ -6,7 +6,7 @@ This folder contains a simple EEPROM (Electrically Erasable Programmable Read-On
 
 EEPROM is a type of non-volatile memory that retains data even when the power is turned off. This driver provides functions to interact with EEPROM memory and perform read and write operations.
 
-## Code Overview
+## Code Overview 
 
 The provided code includes two main functions:
 
