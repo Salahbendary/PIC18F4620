@@ -1,8 +1,6 @@
 # EEPROM Driver for Embedded Systems
 
-![EEPROM](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/EEPROM-chip.jpg/400px-EEPROM-chip.jpg)
-
-This repository contains a simple EEPROM (Electrically Erasable Programmable Read-Only Memory) driver for embedded systems. The driver allows you to easily write and read data to/from an EEPROM memory chip.
+This folder contains a simple EEPROM (Electrically Erasable Programmable Read-Only Memory) driver for embedded systems. The driver allows you to easily write and read data to/from an EEPROM memory chip.
 
 ## Introduction
 
