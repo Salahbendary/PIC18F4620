@@ -1,5 +1,5 @@
 /* 
- * File:   hal_eeprom.h
+ * File:   hal_eeprom.c
  * Author: Salah Bendary
  *
  * Created on 13 August 2023, 22:03
