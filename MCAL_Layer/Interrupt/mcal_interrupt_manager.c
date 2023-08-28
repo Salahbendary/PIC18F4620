@@ -1,8 +1,8 @@
 /* 
  * File:   mcal_interrupt_manager.c
- * Author: Ahmed.Elghafar
- * https://www.linkedin.com/in/ahmedabdelghafarmohammed/
- * Created on February 14, 2021, 11:53 PM
+ * Author: Salah Bendary
+ * 
+ * Created on 13 August 2023, 11:53 PM
  */
 
 #include "mcal_interrupt_manager.h"
