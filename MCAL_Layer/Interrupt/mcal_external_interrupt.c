@@ -1,8 +1,8 @@
 /* 
  * File:   mcal_internal_interrupt.c
- * Author: Salah Bendary
- * 
- * Created on 13 August 2023, 11:52 PM
+ * Author: Ahmed.Elghafar
+ * https://www.linkedin.com/in/ahmedabdelghafarmohammed/
+ * Created on February 14, 2021, 11:52 PM
  */
 
 #include "mcal_external_interrupt.h"
