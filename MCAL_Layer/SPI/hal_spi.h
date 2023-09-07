@@ -8,6 +8,7 @@
 #ifndef HAL_SPI_H
 #define	HAL_SPI_H
 
+
 /* ----------------- Includes -----------------*/
 #include "pic18f4620.h"
 #include "../mcal_std_types.h"
