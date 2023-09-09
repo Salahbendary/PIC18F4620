@@ -1,7 +1,7 @@
 # PIC18F4620 Microcontroller Repository
 
 
-Welcome to the PIC18F4620 Microcontroller Repository! 🚀 This repository is your one-stop resource for mastering the PIC18F4620 microcontroller. It features a comprehensive implementation of drivers for each internal peripheral within the Microcontroller Abstraction Layer (MCAL). Not only that, but it also includes engaging practice exercises and exciting projects designed exclusively for this microcontroller.
+Welcome to PIC18F4620 Microcontroller Repository! 🚀 This repository is your one-stop resource for mastering the PIC18F4620 microcontroller. It features a comprehensive implementation of drivers for each internal peripheral within the Microcontroller Abstraction Layer (MCAL). Not only that, but it also includes engaging practice exercises and exciting projects designed exclusively for this microcontroller.
 
 ## [Microcontroller Abstraction Layer (MCAL)](https://github.com/Salahbendary/PIC18F4620/tree/main/MCAL_Layer)
 
