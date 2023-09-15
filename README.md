@@ -57,6 +57,11 @@ Let's embark on an exciting journey of microcontroller mastery! 🎉
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact" alt="Top Languages">
+</p>
+
+
 Created by [Salah Bendary] 🌟
 
 Date: August 13, 2023
