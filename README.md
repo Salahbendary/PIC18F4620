@@ -27,7 +27,6 @@ Discover the heart of this repository – the Microcontroller Abstraction Layer 
 - **⚙️ [DC MOTOR](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/DC_Motor):** Direct Current Motor
 - **🔘 [BUTTON](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/PUSH_BUTTON):** Button
 - **7️⃣-[SEGMENT](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/7_Segment):** 7-Segment Display
-- **🖋️ [CHR_LCD (Character LCD)](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/LED):** Character LCD (Liquid Crystal Display)
 - **📏 [ULTRASONIC](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/):** Ultrasonic Sensor
 - **🔌 [RELAY](https://github.com/Salahbendary/PIC18F4620/tree/main/ECU_Layer/Relay):** Relay
 
